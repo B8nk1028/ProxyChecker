@@ -1,0 +1,7 @@
+{
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "files.autoSave": "afterDelay",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.gotoLocation.alternativeImplementationCommand": "editor.action.goToImplementation",
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.revealDefinitionAside"
+}
